@@ -1,0 +1,7 @@
+{"level":"info","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Initializing database"}
+{"level":"info","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Clearing old sessions"}
+{"level":"info","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Done","deleted":1}
+{"level":"info","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Server started at 0.0.0.0:8080"}
+{"level":"error","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Server:","error":"listen tcp 0.0.0.0:8080: bind: address already in use"}
+{"level":"info","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Shutting down server"}
+{"level":"info","ts":"Fri, 29 Apr 2022 16:30:07 EEST","msg":"Closing database connections"}

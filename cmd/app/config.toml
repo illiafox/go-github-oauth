@@ -1,0 +1,20 @@
+[Postgres]
+User = "server"
+Pass = "M5F3wWtFxkQ8Ra4n"
+DbName = "oauth"
+IP = "127.0.0.1"
+Port = "5432"
+Protocol = "tcp"
+
+[Oauth]
+ClientID="74817314ca8f99619d"
+ClientSecret="a759a906258f9d5e699cc1bc2ad14e75c80e4a0e"
+
+[Memcached]
+IP = "127.0.0.1"
+Port = "11211"
+
+[Host]
+Port = "8080"
+Key = "cert/localhost.key"
+Cert = "cert/localhost.crt"
